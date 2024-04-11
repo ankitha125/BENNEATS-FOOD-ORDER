@@ -9,7 +9,7 @@ const Header = ()=>{
                 <div className="grid grid-cols-1 relative lg:grid-cols-2 gap-8 items-center">
                     <div className="lg:w-[32rem] w-full flex flex-col space-y-6">
                         <div className="text-4xl md:text-5xl font-bold text-[#2e2e2e] lg:text-6xl">
-                            WELCOME TO <span className="text-[#f54748] ">BENNEATS</span>
+                            WELCOME TO <span className="text-[#f54748] ">Bennnnnnnnnn</span>
                             <div className="p text-xl">Where convenience meets deliciousness!!</div>
                         </div>
                         <div className="lg:text-lg text[#101010] md:text-lg text-base">
